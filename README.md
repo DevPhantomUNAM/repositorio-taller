@@ -23,3 +23,6 @@ Ingles  | Japonés
 ------------- | -------------
 A2  | N5
 Sin certificado  | En progreso  
+
+
+$$ (∂ + m) ψ = 0 $$
