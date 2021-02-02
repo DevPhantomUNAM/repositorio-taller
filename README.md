@@ -25,4 +25,6 @@ A2  | N5
 Sin certificado  | En progreso  
 
 
-$$E=mc^2$$
+$$
+E=mc^2
+$$
