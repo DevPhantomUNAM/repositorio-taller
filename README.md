@@ -17,3 +17,9 @@ print("Hola mundito")
 - Java
 - JavaScript
 - C++
+
+
+Ingles  | Japonés
+------------- | -------------
+A2  | N5
+Sin certificado  | En progreso  
